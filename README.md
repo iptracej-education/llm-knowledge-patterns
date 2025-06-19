@@ -1,6 +1,6 @@
 # LLM Knowledge Engineering Patterns
 
-# WORKING IN PROGRESS
+##  -- WORKING IN PROGRESS Repo-- 
 
 **Design patterns and system architectures for LLM-powered knowledge accumulation and retrieval systems.**
 
